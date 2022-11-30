@@ -1,0 +1,784 @@
+@media screen and (max-width: 800px)
+{
+	body
+	{
+		background-color: white;
+	}
+	.head
+	{
+		width: auto;
+	}
+	.logo
+	{
+		width: 18%;
+	}
+	.textbox
+	{
+		width: 18%;
+		font-size: 80%;
+	}
+	.cart
+	{
+		width: 17%;
+	}
+	.nav
+	{
+		width: auto;
+		font-size: 50%;
+	}
+
+	ul li
+	{
+			float: left;
+			font-size: 150%;
+			height: 30px;
+			width: 136px;
+			line-height: 30px;
+			display: block;
+			text-align: center;
+	}
+	.bluestrip
+	{
+		height: 85px;
+		width: auto;
+	}
+	#slider
+	{
+		width: auto;
+	}
+	.img1
+	{
+		width: 15%;
+		height: 70px;
+		margin-top:1px; 
+		margin-left: 100px;
+	}
+	.img1:hover
+	{
+		height: 80px;
+		width: 17%;
+	}
+	.img2
+	{
+		width: 15%;
+		height: 70px;
+		margin-top:1px; 
+		margin-left: 50px;
+	}
+	.img2:hover
+	{
+		height: 80px;
+		width: 17%;
+	}
+	.img3
+	{width: 15%;
+		height: 70px;
+		margin-top:1px; 
+		margin-left: 50px;
+	}
+	.img3:hover
+	{
+		height: 80px;
+		width: 17%;
+	}
+	.img4
+	{
+		width: 15%;
+		height: 70px;
+		margin-top:1px; 
+		margin-left: 50px;
+	}
+	.img4:hover
+	{
+		height: 80px;
+		width: 17%;
+	}
+	.ride
+	{
+		width: auto;
+	}
+.ridesub1 h2
+{
+			
+			width: 200px;
+			margin-left: 400px;
+			padding-top: 30px;
+			font-size:14px;
+			
+}
+.ridesub2
+{
+	font-size: 15px;	
+	
+}
+.box
+{
+	width: auto;
+	height: 300px;
+}
+.pbox1
+	{
+		height: 300px;
+		width: 300px;
+		
+	}
+	.pbox2
+	{	height: 150px;
+		width: 190px;
+		left:300px;
+		
+	}
+	.pbox3
+	{
+		height: 150px;
+		width: 500px;
+		left:480px;
+	}
+	.pbox4
+	{	
+		height: 150px;
+		width: 680px;
+		background-image: url('imeges/riding gears 2.jpg');
+		background-size: cover;
+		position: none;
+		top:1141px;
+		left: 300px;
+	}
+	.pbox1:hover,.shop1:hover
+	{ 
+
+		background-color: black;
+		color: white;
+		transition: 1s all ease;
+		background-size: 480px;
+	}.pbox2:hover,.shop2:hover
+	{ 
+
+		background-color: black;
+		color: white;
+		transition: 1s all ease;
+		background-size: 320px;
+	}.pbox3:hover,.shop3:hover
+	{ 
+
+		background-color: black;
+		color: white;
+		transition: 1s all ease;
+		background-size: 650px;
+	}.pbox4:hover,.shop4:hover
+	{ 
+
+		background-color: black;
+		color: white;
+		transition: 1s all ease;
+		background-size: 950px;
+	}
+
+	
+	.shop1
+	{
+		height: 40px;
+		width: 80px;
+		font-size: 15px;
+		line-height: 40px;
+		top: 100px;
+		left: 110px;
+	}
+	.shop2
+	{
+		height: 40px;
+		width: 80px;
+		font-size: 15px;
+		background-color:#ffd261;
+		color: black;
+		line-height: 40px;
+		position: relative;
+		top: 50px;
+		left: 50px;
+	}
+	.shop3
+	{
+		height: 40px;
+		width: 80px;
+		font-size: 15px;
+		line-height: 40px;
+		position: relative;
+		top: 60px;
+		left: 200px;
+	}
+	.shop4
+	{
+		height: 40px;
+		width: 100px;
+		font-size: 15px;
+		line-height: 40px;
+		position: relative;
+		top: 70px;
+		left: 300px;
+	}
+	.blog
+	{
+		height: 400px;
+		padding: 30px;
+
+	}
+	.acc 
+	{
+		width: auto;
+	}
+	.art1
+	{
+		height: 350px;
+		width: 30%;
+		border:1px solid #f1f1f1;
+		position: relative;
+		margin:0px;
+		left: -10px;
+		bottom: 0px;
+		overflow:none;
+	}
+	#iart1
+	{
+		width: 100%;
+		height: 40%; 
+		overflow: hidden;
+	}
+	
+	.art2
+	{	height: 350px;
+		width: 30%;
+		top: -350px;
+		left: 300px;
+		bottom: 0px;
+	}
+	
+	#iart2
+	{
+		width: 100%;
+		height: 50%; 
+		overflow: hidden;
+	}
+	.art3
+	{
+		height: 350px;
+		width: 30%;
+		position: relative;
+		border:1px solid #f1f1f1;
+		top: -700px;
+		left: 620px;
+		bottom: 0px;
+	}
+		#iart3	{
+		width: 100%;
+		height: 170px; 
+		overflow: hidden;  
+		margin:0px;
+		background-image:url('imeges/art3.jpg');
+		background-size: cover;
+	}
+
+	#tart1
+	{
+		width: auto;
+		font-size: 13px;
+		overflow: hidden;
+	}
+	#tart1 a
+	{
+		color: #39b6c1;
+		text-decoration: none;
+		position: relative;
+		top: -5px;
+		left: 190px;
+		font-size: 16px;
+		}
+	#tart1 a:hover
+	{
+		text-decoration: underline;
+		color: black;
+	}
+	#tart1 h3 a
+	{
+		color: black;
+		padding: 1px;
+		font-size: 12px;
+	}
+
+	.cust
+{
+	height: 500px;
+	width: auto;
+	background-color:#333;
+	text-align: center;
+	padding: 10px;
+	font-size: 30px;
+	font-weight: bold;
+	color: #fff;
+	text-transform: uppercase;
+	font-family: oswald;
+}
+.imbox
+	{
+		
+		width: auto;
+		font-size: 2px;
+	}
+	.pagesign
+	{
+		padding: 20px;
+		padding-left:100px;
+		font-size: 15px; 
+		background-color: #39b6c1;
+		color: #fff;
+
+	}
+	.pagesign h2
+	{
+		font-size: 20px;
+	}
+	.pagesign .footerem
+	{
+		height: 40px;
+		position: relative;
+		left: 150px;
+		font-size: 20px;
+		padding-right: 50px; 
+		border-radius: 20px 0px 0px 20px;
+		border:1px solid #39b6c1;
+	}
+	.btnfoot
+	{	
+		height: 40px;
+		width: 110px;
+		text-transform: uppercase;
+		font-weight: bold;
+		font-size: 15px;
+		font-family: Bahnschrift;
+		position: relative;
+		top: -4px;
+		right: -150px;
+		background-color: #ffd261;
+		border-radius: 0px 20px 20px 0px;
+		border:1px solid #39b6c1;
+	}
+	.btnfoot:hover
+	{
+		background-color: black;
+		color: white;
+	}
+
+	.abt
+	{
+		height: 350px;
+		width: 100%;
+		background-color:#333;
+		color: white;
+		padding: 100px;
+		font-size: 15px;
+	}
+	.content
+	{
+		position: absolute;
+		left: 30px;
+	}
+	.content2
+	{
+		text-align: left;
+		position: absolute;
+		left: 400px;
+	
+	}
+	.content3
+	{
+		position: relative;
+		top: -20px;
+		left: 500px;
+
+	}
+}
+@media screen and (max-width: 1000px)
+{
+	.head
+	{
+		overflow: hidden;
+	}
+	.logo
+	{
+		width: 18%;
+	}
+	.textbox
+	{
+		width: 18%;
+		font-size: 80%;
+	}
+	.cart
+	{
+		width: 17%;
+	}
+	.nav
+	{
+		width: 100%;
+		font-size: 50%;
+	}
+
+	ul li
+	{
+			float: left;
+			font-size: 150%;
+			height: 30px;
+			width: 136px;
+			line-height: 30px;
+			display: block;
+			text-align: center;
+	}
+	.bluestrip
+	{
+		height: 85px;
+		width: 100%;
+	}
+	.img1
+	{
+		width: 15%;
+		height: 70px;
+		margin-top:1px; 
+		margin-left: 100px;
+	}
+	.img1:hover
+	{
+		height: 80px;
+		width: 17%;
+	}
+	.img2
+	{
+		width: 15%;
+		height: 70px;
+		margin-top:1px; 
+		margin-left: 50px;
+	}
+	.img2:hover
+	{
+		height: 80px;
+		width: 17%;
+	}
+	.img3
+	{width: 15%;
+		height: 70px;
+		margin-top:1px; 
+		margin-left: 50px;
+	}
+	.img3:hover
+	{
+		height: 80px;
+		width: 17%;
+	}
+	.img4
+	{
+		width: 15%;
+		height: 70px;
+		margin-top:1px; 
+		margin-left: 50px;
+	}
+	.img4:hover
+	{
+		height: 80px;
+		width: 17%;
+	}
+	.ride
+	{
+		width: 100%;
+	}
+.ridesub1 h2
+{
+			
+			width: 200px;
+			margin-left: 400px;
+			padding-top: 30px;
+			font-size:14px;
+			
+}
+.ridesub2
+{
+	font-size: 15px;	
+	
+}
+.box
+{
+	width: auto;
+	height: 300px;
+}
+.pbox1
+	{
+		height: 300px;
+		width: 300px;
+		
+	}
+	.pbox2
+	{	height: 150px;
+		width: 190px;
+		left:300px;
+		
+	}
+	.pbox3
+	{
+		height: 150px;
+		width: 500px;
+		left:480px;
+	}
+	.pbox4
+	{	
+		height: 150px;
+		width: 680px;
+		background-image: url('imeges/riding gears 2.jpg');
+		background-size: cover;
+		position: none;
+		top:1141px;
+		left: 300px;
+	}
+	.pbox1:hover,.shop1:hover
+	{ 
+
+		background-color: black;
+		color: white;
+		transition: 1s all ease;
+		background-size: 480px;
+	}.pbox2:hover,.shop2:hover
+	{ 
+
+		background-color: black;
+		color: white;
+		transition: 1s all ease;
+		background-size: 320px;
+	}.pbox3:hover,.shop3:hover
+	{ 
+
+		background-color: black;
+		color: white;
+		transition: 1s all ease;
+		background-size: 650px;
+	}.pbox4:hover,.shop4:hover
+	{ 
+
+		background-color: black;
+		color: white;
+		transition: 1s all ease;
+		background-size: 950px;
+	}
+
+	
+	.shop1
+	{
+		height: 40px;
+		width: 80px;
+		font-size: 15px;
+		line-height: 40px;
+		top: 100px;
+		left: 110px;
+	}
+	.shop2
+	{
+		height: 40px;
+		width: 80px;
+		font-size: 15px;
+		background-color:#ffd261;
+		color: black;
+		line-height: 40px;
+		position: relative;
+		top: 50px;
+		left: 50px;
+	}
+	.shop3
+	{
+		height: 40px;
+		width: 80px;
+		font-size: 15px;
+		line-height: 40px;
+		position: relative;
+		top: 60px;
+		left: 200px;
+	}
+	.shop4
+	{
+		height: 40px;
+		width: 100px;
+		font-size: 15px;
+		line-height: 40px;
+		position: relative;
+		top: 70px;
+		left: 300px;
+	}
+	.blog
+	{
+		height: 400px;
+		padding: 30px;
+
+	}
+	.art1
+	{
+		height: 350px;
+		width: 30%;
+		border:1px solid #f1f1f1;
+		position: relative;
+		margin:0px;
+		left: -10px;
+		bottom: 0px;
+		overflow:none;
+	}
+	#iart1
+	{
+		width: 100%;
+		height: 40%; 
+		overflow: hidden;
+	}
+	
+	.art2
+	{	height: 350px;
+		width: 30%;
+		top: -350px;
+		left: 300px;
+		bottom: 0px;
+	}
+	
+	#iart2
+	{
+		width: 100%;
+		height: 50%; 
+		overflow: hidden;
+	}
+	.art3
+	{
+		height: 350px;
+		width: 30%;
+		position: relative;
+		border:1px solid #f1f1f1;
+		top: -700px;
+		left: 620px;
+		bottom: 0px;
+	}
+		#iart3	{
+		width: 100%;
+		height: 170px; 
+		overflow: hidden;  
+		margin:0px;
+		background-image:url('imeges/art3.jpg');
+		background-size: cover;
+	}
+
+	#tart1
+	{
+		width: auto;
+		font-size: 13px;
+		overflow: hidden;
+	}
+	#tart1 a
+	{
+		color: #39b6c1;
+		text-decoration: none;
+		position: relative;
+		top: -5px;
+		left: 190px;
+		font-size: 16px;
+		}
+	#tart1 a:hover
+	{
+		text-decoration: underline;
+		color: black;
+	}
+	#tart1 h3 a
+	{
+		color: black;
+		padding: 1px;
+		font-size: 12px;
+	}
+
+	.cust
+{
+	height: 500px;
+	width: auto;
+	background-color:#333;
+	text-align: center;
+	padding: 10px;
+	font-size: 30px;
+	font-weight: bold;
+	color: #fff;
+	text-transform: uppercase;
+	font-family: oswald;
+}
+.imbox
+	{
+		
+		width: 100%;
+		font-size: 2px;
+	}
+	.pagesign
+	{
+		padding: 20px;
+		padding-left:100px;
+		font-size: 15px; 
+		background-color: #39b6c1;
+		color: #fff;
+
+	}
+	.pagesign h2
+	{
+		font-size: 20px;
+	}
+	.pagesign .footerem
+	{
+		height: 40px;
+		position: relative;
+		left: 150px;
+		font-size: 20px;
+		padding-right: 50px; 
+		border-radius: 20px 0px 0px 20px;
+		border:1px solid #39b6c1;
+	}
+	.btnfoot
+	{	
+		height: 40px;
+		width: 110px;
+		text-transform: uppercase;
+		font-weight: bold;
+		font-size: 15px;
+		font-family: Bahnschrift;
+		position: relative;
+		top: -4px;
+		right: -150px;
+		background-color: #ffd261;
+		border-radius: 0px 20px 20px 0px;
+		border:1px solid #39b6c1;
+	}
+	.btnfoot:hover
+	{
+		background-color: black;
+		color: white;
+	}
+
+	.abt
+	{
+		height: 350px;
+		width: 100%;
+		background-color:#333;
+		color: white;
+		padding: 100px;
+		font-size: 15px;
+	}
+	.content
+	{
+		position: absolute;
+		left: 30px;
+	}
+	.content2
+	{
+		text-align: left;
+		position: absolute;
+		left: 400px;
+	
+	}
+	.content3
+	{
+		position: relative;
+		top: -20px;
+		left: 500px;
+
+	}
+}

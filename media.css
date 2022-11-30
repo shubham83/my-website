@@ -1,0 +1,141 @@
+@media screen and (max-width: 800px)
+{
+	.head
+		{
+			height: 70px; 
+			width: auto;
+		}
+	.textbox
+		{
+			margin-left:20px; 
+			margin-right: 10px;
+			margin-top: 20px;
+			height: 35px;
+			width: 150px;
+			font-size: 12px;
+		}
+	.logo
+		{
+			width: 30%;
+			margin-top:20px ;
+			margin-left: 40px;
+			
+		
+		}
+
+	.cart
+		{
+			float: right;
+			margin: 0px;
+			width: 22%;	
+		}
+		.nav{
+		width: auto;
+		height: 30px;
+		background-color:#0f1110;
+		color: white;
+		text-transform: uppercase;
+		position: relative;
+		padding: 3px 10px;
+		font-size: 7px;
+
+		}
+		ul
+		{
+			float: left;
+			position: inherit;
+			list-style-type: none;
+			font-family:Copperplate Gothic;
+		}
+		
+		ul li
+		{
+			float: left;
+			height: 30px;
+			width: 95px;
+			line-height: 30px;
+			display: block;
+			text-align: center;
+		}
+		ul li:hover
+		{
+			color:#ffd261;
+			transition: 1s all ease;
+		}
+		
+		ul li ul li
+	{
+		display: none;
+		background-color: black;
+		font-size: 7px;
+		color: white;
+		opacity: 0.9;
+	}
+	ul li:hover ul li 
+	{
+
+	display:block;	
+		
+		
+	}
+	ul li ul li:hover
+	{
+		background-color: yellow;
+		color: black;
+		opacity: 0.6;
+	}
+	.bluestrip
+	{
+		height: 70px;
+		width: auto;
+		background-color: #39b6c1;
+		
+	}
+
+	.img1
+	{
+		margin-top:10px; 
+		margin-left: 0px;
+		height: 40px;
+		
+
+	}
+	.img1:hover
+	{
+		height: auto;
+		width: 100px;}
+	.img2
+	{
+		margin-top:15px; 
+		margin-left: 10px;
+		height: 40px;
+	
+	}
+	.img2:hover
+	{
+		height: auto;
+		width: 100px;}
+	.img3
+	{
+		margin-top:15px; 
+		margin-left: 10px;
+		height: 40px;
+	
+	}
+	.img3:hover
+	{
+		height: auto;
+		width: 100px;}
+	.img4
+	{
+		margin-top:15px; 
+		margin-left: 10px;
+		height: 40px;
+	}
+	.img4:hover
+	{
+		height: auto;
+		width: 100px;}
+
+
+}
